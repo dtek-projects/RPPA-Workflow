@@ -4,9 +4,11 @@ This workflow is for the analysis of data collected from reverse-phase protein a
   Cytoscape 3.10.1 or later, installed on user’s computer.
 ## For Local use:
   Jupyter notebook v2023.4.1011241018 or later
+  
   Python 3.10.9 or later
+  
   Python packages:
-    py4cytoscape
-    pandas
-    NumPy
-    SciPy
+  - py4cytoscape
+  - pandas
+  - NumPy
+  - SciPy
