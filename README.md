@@ -3,9 +3,9 @@ This workflow is for the analysis of data collected from reverse-phase protein a
 
 See RPPA Network Analysis Workflow SOP for detailed usage instructions.
 
-## For Google Colaboratory and Local use:
+## (Requirements) For Google Colaboratory and Local use:
   Cytoscape 3.10.1 or later, installed on user’s computer.
-## For Local use:
+## (Requirements) For Local use:
   Jupyter notebook v2023.4.1011241018 or later
   
   Python 3.10.9 or later
